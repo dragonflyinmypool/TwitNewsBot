@@ -1,6 +1,6 @@
 # TwitNewsBot
 
-A twitter bot turns tweets to poems for users. 
+A twitter bot that turns tweets to poems for users.
 
 This is how it works:
 1. User mentions my account @tweet2poem in their tweet.
